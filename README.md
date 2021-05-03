@@ -2,6 +2,12 @@
 
 Resources and Prodjects addressing human ecological impact.
 
+- [Reducing CO₂ emissions](#projects-reducing-co-emissions)
+- [Removing CO₂](#projects-removing-co)
+- [Circular Economey](#circular-economey-projects)
+- [Funding](#funding)
+- [Background](#background)
+
 # Projects reducing CO₂ emissions
 
 Grouped by area: manufacturing (31 percent), electricity (27 percent), agriculture (19 percent), transportation (16 percent), and buildings (7 percent). Source [Breakthrough Energy](https://www.breakthroughenergy.org/).
