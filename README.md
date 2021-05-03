@@ -19,12 +19,18 @@ Grouped by area: manufacturing (31 percent), electricity (27 percent), agricultu
 ## Electricity
 
 - [Vestas](https://www.mhivestasoffshore.com/) - Offshore wind turbines
+- [North Volt](https://northvolt.com/) - Battery manufactory
+- [Redwood materials](https://www.redwoodmaterials.com/) - Battery recycling
 
 ## Agriculture
+
+- [Small Robot company](https://www.smallrobotcompany.com) - Farming Robots
+- [Lett Us Grow](https://www.lettusgrow.com/) - Vertical farming company
 
 ## Transportation
 
 - [Tesla](https://www.tesla.com) - Electric Cars, Solar & Clean Energy
+- [Ember](https://www.ember.to/) - Electric Bus operator in Scotland
 - [Cryomatiks](https://cryomatiks.com/) - Liquid nitrogen energy storage
 
 ## Buildings
@@ -35,6 +41,7 @@ Grouped by area: manufacturing (31 percent), electricity (27 percent), agricultu
 
 - [Open energy monitor](https://openenergymonitor.org/) - Open source monitoring for understanding energy
 - [Carbon Intensity](https://carbonintensity.org.uk/) - UK carbon intensity API
+  - @NGControlRoom
 
 # Projects removing CO₂
 
@@ -49,6 +56,8 @@ Grouped by area: manufacturing (31 percent), electricity (27 percent), agricultu
 
 - [X prize for Carbon removal](https://www.xprize.org/prizes/elonmusk) - Prize to demonstrate CO₂ removal from air
 - [Footprint coalition](https://www.footprintcoalition.com/) - Venture fund & non-profit
+
+- [Tech nation Net Zero](https://technation.io/programmes/net-zero/)
 
 # Background
 
