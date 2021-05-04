@@ -21,6 +21,7 @@ Grouped by area: manufacturing (31 percent), electricity (27 percent), agricultu
 - [Vestas](https://www.mhivestasoffshore.com/) - Offshore wind turbines
 - [North Volt](https://northvolt.com/) - Battery manufactory
 - [Redwood materials](https://www.redwoodmaterials.com/) - Battery recycling
+- [Arrival](https://arrival.com/) - Zero emission vans and busses
 
 ## Agriculture
 
