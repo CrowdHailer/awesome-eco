@@ -21,21 +21,30 @@ Grouped by area: manufacturing (31 percent), electricity (27 percent), agricultu
 - [Vestas](https://www.mhivestasoffshore.com/) - Offshore wind turbines
 - [North Volt](https://northvolt.com/) - Battery manufactory
 - [Redwood materials](https://www.redwoodmaterials.com/) - Battery recycling
+- [Ocean Energy](https://oceanenergy.ie/) - Irish based wave energy
 
 ## Agriculture
 
+- [Infarm](https://www.infarm.com) - Farm units in cities and stores
+  - [competitors](https://www.owler.com/company/infarm1)
+  - [More urban farming](https://www.greenbiz.com/article/how-16-initiatives-are-changing-urban-agriculture-through-tech-and-innovation)
+- [Aerofarms](https://www.aerofarms.com/) - vertical farming company
 - [Small Robot company](https://www.smallrobotcompany.com) - Farming Robots
 - [Lett Us Grow](https://www.lettusgrow.com/) - Vertical farming company
+- [Green wave](https://www.greenwave.org/) - Ocean farming
 
 ## Transportation
 
 - [Tesla](https://www.tesla.com) - Electric Cars, Solar & Clean Energy
 - [Ember](https://www.ember.to/) - Electric Bus operator in Scotland
 - [Cryomatiks](https://cryomatiks.com/) - Liquid nitrogen energy storage
+- [Bamboo Bicycle Club](https://bamboobicycleclub.org/) - Bikes built from Bamboo
 
 ## Buildings
 
 - [Mixergy](https://www.mixergy.co.uk/) - A more efficient way to heat your water
+- [Concrete cuts](https://concretecuts.xyz/) - Pragmatic looks at reducing emissions with a focus on buildings
+- [Shifted Energy](https://www.shiftedenergy.com/) - Smart water heaters
 
 ## Monitoring
 
@@ -47,6 +56,7 @@ Grouped by area: manufacturing (31 percent), electricity (27 percent), agricultu
 
 - [Dendra](https://www.dendra.io/) - Tools for ecosystem restoration
 - [Gevo](https://gevo.com/) - Energy dense liquid fuels
+- [Terraformation](https://www.terraformation.com/) - Support for reforestation projects
 
 # Circular Economy Projects
 
@@ -62,3 +72,4 @@ Grouped by area: manufacturing (31 percent), electricity (27 percent), agricultu
 # Background
 
 - [Breakthrough Energy](https://www.breakthroughenergy.org/) - Research and investment for a Net zero carbon future
+- [Project Drawdown](https://drawdown.org/solutions) - Resource for climate solutions
