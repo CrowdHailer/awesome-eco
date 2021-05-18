@@ -15,6 +15,7 @@ Grouped by area: manufacturing (31 percent), electricity (27 percent), agricultu
 ## Manufacturing
 
 - [Newlight](https://www.newlight.com/) - Use greenhouse gas to make valuable materials
+- [Solida](https://www.solidiatech.com/) - Sustainable concrete
 
 ## Electricity
 
@@ -33,6 +34,7 @@ Grouped by area: manufacturing (31 percent), electricity (27 percent), agricultu
 - [Small Robot company](https://www.smallrobotcompany.com) - Farming Robots
 - [Lett Us Grow](https://www.lettusgrow.com/) - Vertical farming company
 - [Green wave](https://www.greenwave.org/) - Ocean farming
+- [Seawater Greenhouse](https://www.youtube.com/watch?v=P4YCZgfchO0) - Greening the world
 
 ## Transportation
 
@@ -40,12 +42,17 @@ Grouped by area: manufacturing (31 percent), electricity (27 percent), agricultu
 - [Ember](https://www.ember.to/) - Electric Bus operator in Scotland
 - [Cryomatiks](https://cryomatiks.com/) - Liquid nitrogen energy storage
 - [Bamboo Bicycle Club](https://bamboobicycleclub.org/) - Bikes built from Bamboo
+- [Heart aerospace](https://heartaerospace.com/) - Electric plane
 
 ## Buildings
 
 - [Mixergy](https://www.mixergy.co.uk/) - A more efficient way to heat your water
 - [Concrete cuts](https://concretecuts.xyz/) - Pragmatic looks at reducing emissions with a focus on buildings
 - [Shifted Energy](https://www.shiftedenergy.com/) - Smart water heaters
+- [Fluid Mechanics](https://www.fluidmechanics.co.uk/) - Highly efficient Stirling cooling
+  - https://www.youtube.com/watch?v=X1fiABe4x08
+- [Diaglog](www.dialogdesign.ca) - Architects with Wooden skyscraper design
+  - https://www.fastcompany.com/90615147/this-105-story-skyscraper-takes-wood-construction-to-new-heights-with-zero-carbon-footprint
 
 ## Monitoring
 
@@ -74,3 +81,6 @@ Grouped by area: manufacturing (31 percent), electricity (27 percent), agricultu
 
 - [Breakthrough Energy](https://www.breakthroughenergy.org/) - Research and investment for a Net zero carbon future
 - [Project Drawdown](https://drawdown.org/solutions) - Resource for climate solutions
+
+- http://energyliteracy.com/ All energy emissions in US
+- https://www.wri.org/data/world-greenhouse-gas-emissions-2016 all emissions global by industry/type
