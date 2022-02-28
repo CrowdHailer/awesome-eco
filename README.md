@@ -4,7 +4,7 @@ A curated list of resources and projects addressing human ecological impact.
 
 - [Reducing CO₂ emissions](#projects-reducing-co-emissions)
 - [Removing CO₂](#projects-removing-co)
-- [Circular Economey](#circular-economey-projects)
+- [Circular Economy](#circular-economy-projects)
 - [Funding](#funding)
 - [Background](#background)
 
