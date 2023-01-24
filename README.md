@@ -24,6 +24,7 @@ Grouped by area: manufacturing (31 percent), electricity (27 percent), agricultu
 - [Redwood materials](https://www.redwoodmaterials.com/) - Battery recycling
 - [Ocean Energy](https://oceanenergy.ie/) - Irish based wave energy
 - [Arrival](https://arrival.com/) - Zero emission vans and busses
+- [Form Energy](https://formenergy.com/) -  Storage
 
 ## Agriculture
 
@@ -43,6 +44,7 @@ Grouped by area: manufacturing (31 percent), electricity (27 percent), agricultu
 - [Cryomatiks](https://cryomatiks.com/) - Liquid nitrogen energy storage
 - [Bamboo Bicycle Club](https://bamboobicycleclub.org/) - Bikes built from Bamboo
 - [Heart aerospace](https://heartaerospace.com/) - Electric plane
+- [Pyka](https://www.flypyka.com/) - Electric airplane, crop spray
 
 ## Buildings
 
